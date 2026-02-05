@@ -1,8 +1,8 @@
 #Eclipse
-.metadata/
-.project/
+.metadata
+.project
 .classpath
-.settings/
+.settings
 
 # Java
 bin/
