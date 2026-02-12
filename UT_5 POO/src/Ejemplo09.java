@@ -8,7 +8,7 @@ public static Scanner teclado = new Scanner(System.in);
 		char[] letras = frase.toCharArray();
 		
 		for(int i = 0; i < letras.length; i++) {
-			System.out.print(letras[i] + ' ');
+			System.out.print(letras[i] + " ");
 		}
 	}
 }
